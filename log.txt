@@ -1,0 +1,2 @@
+ls: impossibile accedere a 'pippo': File o directory non esistente
+-rw-rw-r-- 1 francesco francesco 67 nov 10 10:09 err.txt
