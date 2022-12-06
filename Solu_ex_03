@@ -1,0 +1,16 @@
+for l in {A..Z};
+do
+	echo "$l: " $(grep -c "^$l" LCP_22-23_students.csv);
+done
+
+
+count=0
+lett=A
+for l in {A..Z};
+do
+         if [ $(grep -c "^$l" LCP_22-23_students.csv) -gt $count ]; then
+                          count=$(grep -c "^$l" LCP_22-23_students.csv)
+                          lett=$l                         
+        fi;
+done
+echo $lett $count
