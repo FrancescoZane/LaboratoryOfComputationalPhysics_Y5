@@ -1,0 +1,24 @@
+					PANDAS
+Seires: cos'e indici e inizializzazione
+	estrarre elementi e operazioni tra seire
+Time series (in particolare le date come indici): datetime ae pandas con le date
+DataFrame: inizializzazione
+	   visione dati e ordinamento
+Selection: getting slices (lavoro sul numero di righe e possoselezionare una o tutte le colonne)
+	   selection by labels (posso selezionarepiu' di una colonna)   .loc
+	   selection by position (posso selezionarepiu' di una colonna)   .iloc
+Boolean index: mask
+Setting: change values inside a dataframe
+	 create new columns
+	 dropping a column
+Missing data: how to treat NaN values
+Operations: in particular between columns
+
+
+
+
+
+DataFrama.apply(function_on_scalar_value)
+
+
+https://www.youtube.com/watch?v=OAHRIlIRMRA&list=PLP5MAKLy8lP-JGWIXhTbNh69zmtnwHSnh
