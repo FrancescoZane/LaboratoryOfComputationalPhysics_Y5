@@ -1,0 +1,8 @@
+--2022-11-23 11:07:51--  https://archive.ics.uci.edu/ml/machine-learning-databases/magic/magic04.names
+Risoluzione di archive.ics.uci.edu (archive.ics.uci.edu)... 128.195.10.252
+Connessione a archive.ics.uci.edu (archive.ics.uci.edu)|128.195.10.252|:443... non riuscito: Connessione scaduta.
+Altro tentativo in corso.
+
+--2022-11-23 11:10:03--  (tentativo: 2)  https://archive.ics.uci.edu/ml/machine-learning-databases/magic/magic04.names
+Connessione a archive.ics.uci.edu (archive.ics.uci.edu)|128.195.10.252|:443... connesso.
+Impossibile stabilire una connessione SSL.

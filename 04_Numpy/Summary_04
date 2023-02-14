@@ -1,0 +1,16 @@
+				NUMPY
+Inizializzare e dimensioni
+Reshaping and concatenation
+Copies and views
+Indexing (start:stop:step)
+Slicing (identificare amtrice piu' piccola e lavorare su quella)
+Fancy indexing (create copies)  nome_array[condizione]   oppure   nome_array[lista]   oppure   nome_array[matrice]
+Basic operations (are element-wise operations) [add, sub, multiplications, ...]
+Other operations [comparison (element-wise or array-wise), logical operations, apply functions to array, matricial operations]
+Reductions: operations that reduce the dimensionality of arrays are called reductions. The reduction functions operate on the elements of an array and return a (set of) scalar(s)
+Broadcasting: it’s also possible to do operations on arrays of different sizes if NumPy can transform (broadcast) these arrays so that they all have the same size.
+More on shape manipulation
+Random numbers and random shuffling of array
+Probability Density Functions: numbers can be drawn from basically any common PDF (normal, binomial, chisquare, etc..)
+
+https://www.youtube.com/watch?v=UFUzdvoFRhk&list=PLP5MAKLy8lP9ZXqKj8z043ynXkgjCfBkp
